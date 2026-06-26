@@ -1,0 +1,7 @@
+Tên ảnh,Nhãn dự đoán,Xác suất
+Test_Image_0.bmp,banana,1.0
+Test_Image_1.bmp,banana,1.0
+Test_Image_2.bmp,apple,0.999202901502162
+Test_Image_3.bmp,apple,0.9999988673549436
+Test_Image_4.bmp,orange,0.9953701839568047
+Test_Image_5.bmp,apple,0.9247183534309995
